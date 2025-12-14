@@ -1,5 +1,6 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
+|[VULNS](https://vulns.is/)|ONLINE|
 |[0x00sec](https://0x00sec.org/)|OFFLINE|
 |[4CHEAT](https://4cheat.ru/)|ONLINE||
 |[589forum](https://589forum.org/)|ONLINE|
